@@ -34,8 +34,8 @@ Solution in C++ to HackerRank (Problem Solving)
 | 27.  | Intro to Tutorial Challenges  | 30  |  https://www.hackerrank.com/challenges/tutorial-intro |
 | 28.  | Alternating Characters  | 20  | https://www.hackerrank.com/challenges/alternating-characters  |
 | 29.  | Two Strings  | 25  | https://www.hackerrank.com/challenges/two-strings  |
-| 30.  |  Sam and substrings | 40  | https://www.hackerrank.com/challenges/sam-and-substrings  |
-|   |   |   |   |
+| 30.  | Sam and substrings | 40  | https://www.hackerrank.com/challenges/sam-and-substrings  |
+| 31.  | Bill Division  | 10  | https://www.hackerrank.com/challenges/bon-appetit  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
