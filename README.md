@@ -37,5 +37,17 @@ Solution in C++ to HackerRank (Problem Solving)
 | 30.  | Sam and substrings | 40  | https://www.hackerrank.com/challenges/sam-and-substrings  |
 | 31.  | Bill Division  | 10  | https://www.hackerrank.com/challenges/bon-appetit  |
 | 32.  | Number Line Jumps  | 10  | https://www.hackerrank.com/challenges/kangaroo/problem  |
-| 33.  |   |   |   |
+| 33.  | Subarray Division  | 10  | https://www.hackerrank.com/challenges/the-birthday-bar/problem  |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
