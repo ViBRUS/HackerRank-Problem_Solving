@@ -40,7 +40,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 33.  | Subarray Division  | 10  | https://www.hackerrank.com/challenges/the-birthday-bar/problem  |
 | 34.  | Migratory Birds  | 10  | https://www.hackerrank.com/challenges/migratory-birds/problem  |
 | 35.  | Day of the Programmer  | 15  | https://www.hackerrank.com/challenges/day-of-the-programmer/problem  |
-|   |   |   |   |
+| 36.  | Counting Valleys  | 15  | https://www.hackerrank.com/challenges/counting-valleys/problem  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
