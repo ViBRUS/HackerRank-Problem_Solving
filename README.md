@@ -36,6 +36,6 @@ Solution in C++ to HackerRank (Problem Solving)
 | 29.  | Two Strings  | 25  | https://www.hackerrank.com/challenges/two-strings  |
 | 30.  | Sam and substrings | 40  | https://www.hackerrank.com/challenges/sam-and-substrings  |
 | 31.  | Bill Division  | 10  | https://www.hackerrank.com/challenges/bon-appetit  |
-|   |   |   |   |
-|   |   |   |   |
+| 32.  | Number Line Jumps  | 10  | https://www.hackerrank.com/challenges/kangaroo/problem  |
+| 33.  |   |   |   |
 |   |   |   |   |
