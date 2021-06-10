@@ -38,7 +38,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 31.  | Bill Division  | 10  | https://www.hackerrank.com/challenges/bon-appetit  |
 | 32.  | Number Line Jumps  | 10  | https://www.hackerrank.com/challenges/kangaroo/problem  |
 | 33.  | Subarray Division  | 10  | https://www.hackerrank.com/challenges/the-birthday-bar/problem  |
-|   |   |   |   |
+| 34.  | Migratory Birds  | 10  | https://www.hackerrank.com/challenges/migratory-birds/problem  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
