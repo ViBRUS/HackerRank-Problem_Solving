@@ -41,10 +41,10 @@ Solution in C++ to HackerRank (Problem Solving)
 | 34.  | Migratory Birds  | 10  | https://www.hackerrank.com/challenges/migratory-birds/problem  |
 | 35.  | Day of the Programmer  | 15  | https://www.hackerrank.com/challenges/day-of-the-programmer/problem  |
 | 36.  | Counting Valleys  | 15  | https://www.hackerrank.com/challenges/counting-valleys/problem  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 37.  | Drawing Book  | 10  | https://www.hackerrank.com/challenges/drawing-book/problem  |
+| 38.  |   |   |   |
+| 39.  |   |   |   |
+| 40.  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
