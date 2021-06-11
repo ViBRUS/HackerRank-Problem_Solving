@@ -42,7 +42,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 35.  | Day of the Programmer  | 15  | https://www.hackerrank.com/challenges/day-of-the-programmer/problem  |
 | 36.  | Counting Valleys  | 15  | https://www.hackerrank.com/challenges/counting-valleys/problem  |
 | 37.  | Drawing Book  | 10  | https://www.hackerrank.com/challenges/drawing-book/problem  |
-| 38.  |   |   |   |
+| 38.  | Electronics Shop  | 15  | https://www.hackerrank.com/challenges/electronics-shop/problem  |
 | 39.  |   |   |   |
 | 40.  |   |   |   |
 |   |   |   |   |
