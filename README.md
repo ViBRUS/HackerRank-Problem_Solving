@@ -43,7 +43,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 36.  | Counting Valleys  | 15  | https://www.hackerrank.com/challenges/counting-valleys/problem  |
 | 37.  | Drawing Book  | 10  | https://www.hackerrank.com/challenges/drawing-book/problem  |
 | 38.  | Electronics Shop  | 15  | https://www.hackerrank.com/challenges/electronics-shop/problem  |
-| 39.  |   |   |   |
+| 39.  | Save the Prisoner!  | 15  | https://www.hackerrank.com/challenges/save-the-prisoner/problem  |
 | 40.  |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
