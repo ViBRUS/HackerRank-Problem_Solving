@@ -46,7 +46,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 39.  | Save the Prisoner!  | 15  | https://www.hackerrank.com/challenges/save-the-prisoner/problem  |
 | 40.  | Library Fine  | 15  | https://www.hackerrank.com/challenges/library-fine/problem  |
 | 41.  | Repeated String  | 20  | https://www.hackerrank.com/challenges/repeated-string/problem  |
-|   |   |   |   |
+| 42.  | Extra Long Factorials  | 20  | https://www.hackerrank.com/challenges/extra-long-factorials/problem  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
