@@ -44,7 +44,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 37.  | Drawing Book  | 10  | https://www.hackerrank.com/challenges/drawing-book/problem  |
 | 38.  | Electronics Shop  | 15  | https://www.hackerrank.com/challenges/electronics-shop/problem  |
 | 39.  | Save the Prisoner!  | 15  | https://www.hackerrank.com/challenges/save-the-prisoner/problem  |
-| 40.  |   |   |   |
+| 40.  | Library Fine  | 15  | https://www.hackerrank.com/challenges/library-fine/problem  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
