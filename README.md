@@ -5,7 +5,7 @@ Solution in C++ to HackerRank (Problem Solving)
 
 | No.  | Problem Name  | Score  | Link  |
 | ------------ | ------------ | ------------ | ------------ |
-| 1. | Solve Me First  | 1  |  https://www.hackerrank.com/challenges/solve-me-first |
+| 1. | Solve Me First  | 01  |  https://www.hackerrank.com/challenges/solve-me-first |
 | 2.  | Simple Array Sum  | 10  |  https://www.hackerrank.com/challenges/simple-array-sum |
 |  3. | Compare the Triplets  | 10  |  https://www.hackerrank.com/challenges/compare-the-triplets |
 |  4. | A Very Big Sum  | 10  | https://www.hackerrank.com/challenges/a-very-big-sum  |
@@ -45,7 +45,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 38.  | Electronics Shop  | 15  | https://www.hackerrank.com/challenges/electronics-shop/problem  |
 | 39.  | Save the Prisoner!  | 15  | https://www.hackerrank.com/challenges/save-the-prisoner/problem  |
 | 40.  | Library Fine  | 15  | https://www.hackerrank.com/challenges/library-fine/problem  |
-|   |   |   |   |
+| 41.  | Repeated String  | 20  | https://www.hackerrank.com/challenges/repeated-string/problem  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
