@@ -1,5 +1,5 @@
 # HackerRank-Problem_Solving
-Solution in C++ to HackerRank (Problem Solving)
+Solution in C++ / {JS} to HackerRank (Problem Solving)
 
 ### Problems:
 
