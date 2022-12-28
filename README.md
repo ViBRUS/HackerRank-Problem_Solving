@@ -14,7 +14,7 @@ Solution in C++ to HackerRank (Problem Solving)
 |  7. | [Staircase](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/07_Staircase.cpp)  | 10  | https://www.hackerrank.com/challenges/staircase  |
 | 8.  | [Mini-Max Sum](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/08_Mini-Max_Sum.cpp)  | 10  | https://www.hackerrank.com/challenges/mini-max-sum  |
 | 9.  | [Birthday Cake Candles](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/09_Birthday-Cake-Candles.cpp)  | 10  |  https://www.hackerrank.com/challenges/birthday-cake-candles |
-| 10.  | [Time Conversion]()  | 15  | https://www.hackerrank.com/challenges/time-conversion  |
+| 10.  | *{JS}* [Time Conversion](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/44_time_conversion.js)  | 15  | https://www.hackerrank.com/challenges/time-conversion  |
 | 11.  | [Grading Students](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/10_Grading-Students.cpp)  | 10  | https://www.hackerrank.com/challenges/grading  |
 | 12.  | [Apple and Orange](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/11_Apple-and-Orange.cpp) |  10 | https://www.hackerrank.com/challenges/apple-and-orange  |
 | 13.  | [Number Line Jumps](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/32_Number_Line_Jumps.cpp)  | 10  | https://www.hackerrank.com/challenges/kangaroo/problem  |
