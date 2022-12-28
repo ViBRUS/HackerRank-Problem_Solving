@@ -6,12 +6,12 @@ Solution in C++ to HackerRank (Problem Solving)
 | No.  | Problem Name  | Score  | Link  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1. | [Solve Me First](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/01_Solve_Me_First.cpp)  | 01  |  https://www.hackerrank.com/challenges/solve-me-first |
-| 2.  | Simple Array Sum  | 10  |  https://www.hackerrank.com/challenges/simple-array-sum |
-|  3. | Compare the Triplets  | 10  |  https://www.hackerrank.com/challenges/compare-the-triplets |
-|  4. | A Very Big Sum  | 10  | https://www.hackerrank.com/challenges/a-very-big-sum  |
-|  5. | Diagonal Difference  | 10  | https://www.hackerrank.com/challenges/diagonal-difference  |
-| 6.  | Plus Minus  | 10  |  https://www.hackerrank.com/challenges/plus-minus |
-|  7. | Staircase  | 10  | https://www.hackerrank.com/challenges/staircase  |
+| 2.  | [Simple Array Sum](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/02_Simple-Array-Sum.cpp)  | 10  |  https://www.hackerrank.com/challenges/simple-array-sum |
+|  3. | [Compare the Triplets](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/03_Compare-the-Triplets.cpp)  | 10  |  https://www.hackerrank.com/challenges/compare-the-triplets |
+|  4. | [A Very Big Sum](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/04_A-Very-Big-Sum.cpp)  | 10  | https://www.hackerrank.com/challenges/a-very-big-sum  |
+|  5. | [Diagonal Difference](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/05_Diagonal-Difference.cpp)  | 10  | https://www.hackerrank.com/challenges/diagonal-difference  |
+| 6.  | [Plus Minus](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/06_Plus-Minus.cpp)  | 10  |  https://www.hackerrank.com/challenges/plus-minus |
+|  7. | [Staircase](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/07_Staircase.cpp)  | 10  | https://www.hackerrank.com/challenges/staircase  |
 | 8.  | Mini-Max Sum  | 10  | https://www.hackerrank.com/challenges/mini-max-sum  |
 | 9.  | Birthday Cake Candles  | 10  |  https://www.hackerrank.com/challenges/birthday-cake-candles |
 | 10.  | Time Conversion  | 15  | https://www.hackerrank.com/challenges/time-conversion  |
