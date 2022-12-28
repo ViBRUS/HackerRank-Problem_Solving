@@ -5,7 +5,7 @@ Solution in C++ to HackerRank (Problem Solving)
 
 | No.  | Problem Name  | Score  | Link  |
 | ------------ | ------------ | ------------ | ------------ |
-| 1. | Solve Me First  | 01  |  https://www.hackerrank.com/challenges/solve-me-first |
+| 1. | [Solve Me First](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/01_Solve_Me_First.cpp)  | 01  |  https://www.hackerrank.com/challenges/solve-me-first |
 | 2.  | Simple Array Sum  | 10  |  https://www.hackerrank.com/challenges/simple-array-sum |
 |  3. | Compare the Triplets  | 10  |  https://www.hackerrank.com/challenges/compare-the-triplets |
 |  4. | A Very Big Sum  | 10  | https://www.hackerrank.com/challenges/a-very-big-sum  |
