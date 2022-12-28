@@ -53,7 +53,7 @@ Solution in C++ to HackerRank (Problem Solving)
 | 46.  |   |   |   |
 | 47.  |   |   |   |
 | 48.  |   |   |   |
-| 49.  | [Taum and B'day]()  | 25  | https://www.hackerrank.com/challenges/taum-and-bday/problem  |
+| 49.  | [Taum and B'day](https://github.com/ViBRUS/HackerRank-Problem_Solving/blob/main/45_taum_and_bday.cpp)  | 25  | https://www.hackerrank.com/challenges/taum-and-bday/problem  |
 | 50.  |   |   |   |
 | 51.  |   |   |   |
 | 52.  |   |   |   |
